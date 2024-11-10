@@ -2,8 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   outputPath: 'docs-dist',
-  base: '/mchoice/',
-  publicPath: '/mchoice/',
+  base: '/MChoice/',
+  publicPath: '/MChoice/',
   themeConfig: {
     name: 'MChoice',
     showLineNum: true,
