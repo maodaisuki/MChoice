@@ -1,0 +1,28 @@
+.mchoice-quiz {
+  display: flex;
+  flex-direction: column;
+
+  .underline {
+    text-decoration: underline;
+  }
+
+  .normal {
+    font-style: normal;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  .strong {
+    font-weight: bold;
+  }
+
+  .image {
+    padding: 5px;
+  }
+
+  .image img {
+    object-fit: contain;
+  }
+}
